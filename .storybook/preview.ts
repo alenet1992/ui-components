@@ -2,6 +2,7 @@ import type { Preview } from '@storybook/vue3';
 import { setup } from '@storybook/vue3';
 import { createPinia } from 'pinia';
 import TestsiegerTheme from './TestsiegerTheme';
+import '../src/styles/variables.css';
 
 // Setup Pinia for Storybook
 setup((app) => {

@@ -1,0 +1,18 @@
+:root {
+  /* Colors */
+  --white: #ffffff;
+  --primary: #004b7a;
+  --text-color: #374151;
+  --border-color: #d1d5db;
+  
+  /* Layout */
+  --radius: 8px;
+  
+  /* Status Colors */
+  --color-red-50: #fef2f2;
+  --color-red-300: #fca5a5;
+  --color-green-50: #f0fdf4;
+  --color-green-300: #86efac;
+  --color-green-600: #16a34a;
+  --color-blue-600: #2563eb;
+}
